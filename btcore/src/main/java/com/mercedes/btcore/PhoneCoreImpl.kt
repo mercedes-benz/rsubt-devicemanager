@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 Mercedes-Benz Group AG
+
 package com.mercedes.btcore
 
 import android.content.Context
